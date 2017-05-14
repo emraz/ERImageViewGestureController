@@ -1,0 +1,2 @@
+# ERImageViewGestureController
+ERImageViewGestureController
